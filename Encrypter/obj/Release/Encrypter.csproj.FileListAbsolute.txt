@@ -1,0 +1,14 @@
+E:\programming\csharp_works\Encrypter\Encrypter\bin\Release\Encrypter.exe.config
+E:\programming\csharp_works\Encrypter\Encrypter\bin\Release\Encrypter.exe
+E:\programming\csharp_works\Encrypter\Encrypter\bin\Release\Encrypter.pdb
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\MainWindow.g.cs
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\App.g.cs
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter_MarkupCompile.cache
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter_MarkupCompile.lref
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\MainWindow.baml
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter.g.resources
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter.Properties.Resources.resources
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter.csproj.GenerateResource.cache
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter.csproj.CoreCompileInputs.cache
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter.exe
+E:\programming\csharp_works\Encrypter\Encrypter\obj\Release\Encrypter.pdb

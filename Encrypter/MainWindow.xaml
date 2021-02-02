@@ -21,7 +21,7 @@
         </Grid.RowDefinitions>
         
         <!-- Tool bar -->
-        <Grid Background="#b85c06"
+        <Grid Background="#da6c06"
               Grid.Row="0"
               MouseDown="Toolbar_MouseDown">
 
@@ -64,7 +64,7 @@
                    FontWeight="Bold"
                    FontFamily="Fonts/#20011"
                    TextAlignment="Center"
-                   Foreground="#b85c06"
+                   Foreground="#da6c06"
                    VerticalAlignment="Center"
                    Grid.Row="1"/>
         
@@ -73,7 +73,7 @@
                  KeyDown="Input_KeyDown"
                  FontSize="30"
                  FontFamily="Fonts/#20011"
-                 Foreground="#b85c06"
+                 Foreground="#da6c06"
                  Background="#3d3a3f"
                  Width="500"
                  Height="100"
@@ -88,7 +88,7 @@
                 FontSize="20"
                 FontFamily="Fonts/#20011"
                 Foreground="#454545"
-                Background="#b85c06"
+                Background="#da6c06"
                 OpacityMask="#FF3D3A3F"
                 Width="200"
                 Height="50"
@@ -100,7 +100,7 @@
                  IsReadOnly="True"
                  FontSize="30"
                  FontFamily="Fonts/#20011"
-                 Foreground="#b85c06"
+                 Foreground="#da6c06"
                  Background="#3d3a3f"
                  Width="500"
                  Height="100"
